@@ -25,7 +25,7 @@ const MOCK_DIARIES: DiaryEntry[] = [
     date: format(new Date(Date.now() - 1000 * 60 * 60 * 24), 'yyyy-MM-dd'),
     content: '一起看了那部电影，你说喜欢里面的情节。我们坐在电影院的爆米花味道里，讨论着剧情。这些小时刻都很珍贵。',
     mood: '😍',
-    location: '电影院',
+    location: '公园',
     images: [],
     createdAt: Date.now() - 1000 * 60 * 60 * 24,
     updatedAt: Date.now() - 1000 * 60 * 60 * 24,
